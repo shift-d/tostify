@@ -9,7 +9,7 @@
     "build": "yarn && yarn build:tsc",
     "build:tsc": "tsc",
     "build:publish": "yarn build && yarn publish",
-    "lint": "yarn eslint .",
+    "lint": "npx eslint .",
     "format": "prettier --check ."
   },
   "devDependencies": {
