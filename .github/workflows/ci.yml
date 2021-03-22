@@ -52,5 +52,5 @@ jobs:
 
       - name: Run ESLint
         run: |
-          yarn build
+          yarn
           yarn lint
