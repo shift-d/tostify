@@ -1,6 +1,6 @@
 {
-  "name": "toster",
-  "version": "0.0.1",
+  "name": "tostify",
+  "version": "0.0.2",
   "main": "dist/index.js",
   "repository": "https://github.com/shift-d/toster.git",
   "author": "Shift <shiftkeydeveloper@gmail.com>",
